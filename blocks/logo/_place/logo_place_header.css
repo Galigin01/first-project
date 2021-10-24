@@ -1,0 +1,22 @@
+.logo_place_header {
+    position: absolute;
+    align-self: flex-start;
+     height: 32px;
+     width: 183px;
+     top: 30px;
+     left: 64px;
+    background-repeat: no-repeat; 
+    background-size: content;
+    background-position: center;
+    margin: 0;
+    z-index: 1;
+    transition: ease-out transform 3s;
+  }
+
+
+  .logo_place_header:hover {
+    transform: skewX(-90deg);
+    background-color: darkred;
+    border-radius: 50%;
+  }
+ 

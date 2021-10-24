@@ -1,0 +1,5 @@
+
+.two-colums_paragraph:nth-of-type(2n){
+    padding-top: 30px;
+    padding-bottom: 30px;
+  } 

@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border: 1px solid red;
+    
+    /*position: relative;
+    flex-direction: column;
+    /*top: 20px;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-self: center;
+    background-color: rgb(221, 22, 22);
+    border: 1px solid green;
+    height: 200px;
+    width: 150px;*/
+  }

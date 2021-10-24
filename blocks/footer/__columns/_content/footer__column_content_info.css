@@ -1,0 +1,9 @@
+
+.footer__column_content_info{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    
+    right: 30%;
+  
+  }
